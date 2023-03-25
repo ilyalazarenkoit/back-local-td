@@ -1,0 +1,25 @@
+[
+  {
+    "id": "vSdgEGF3i8xpmGbXSUo03",
+    "email": "ilyalazarenko123@gmail.com",
+    "passwordHash": "$2b$10$Q9DGXgS1dcaKNAvWmwAkau.Ka/EhbzXjRexhrwUp0znJU8xKeB8GS",
+    "role": "top-manager",
+    "emailVerificationToken": null,
+    "verify": true,
+    "sessionKey": "1cdf2eb8-30e6-4bfe-b24a-136b02c06eb6",
+    "users": []
+  },
+  {
+    "id": "9rbLnMTvGDAF6pkK19aZ_",
+    "email": "helloworld@gmail.com",
+    "passwordHash": "$2b$10$iTBXbdPfjYFkqeXl0gKDCOYn5595V.gDqBZUibhDVITYYcQmiq2be",
+    "role": "manager",
+    "emailVerificationToken": null,
+    "verify": true,
+    "users": [
+      "zG7Uu1sD-eZTCtSofcIkx",
+      "3"
+    ],
+    "sessionKey": null
+  }
+]
